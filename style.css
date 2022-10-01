@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+h1 {
+    color: rgb(101, 20, 20);
+}
+  
+.c {
+    color: white;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+.afiyet{
+    margin-left: 1000px;
+    font-family: cursive;
+}
+
+article{
+    margin-left: 500px;
+}
+
